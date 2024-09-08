@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ElectronicBook</string>
+    <string name="title">Электронная книга</string>
+    <string name="loadBtnOn">Очистить</string>
+    <string name="loadBtnOff">Загрузить</string>
+</resources>
